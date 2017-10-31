@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\arthur\documents\visual studio 2017\projects\vector3 class test\vector3 class test\main.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\arthur\documents\visual studio 2017\projects\vector3 class test\vector3 class test\main.cpp(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Vector3 class test.vcxproj -> C:\Users\Arthur\documents\visual studio 2017\Projects\Vector3 class test\Debug\Vector3 class test.exe
+  Vector3 class test.vcxproj -> C:\Users\Arthur\documents\visual studio 2017\Projects\Vector3 class test\Debug\Vector3 class test.pdb (Partial PDB)
